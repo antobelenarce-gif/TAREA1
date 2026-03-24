@@ -1,0 +1,317 @@
+"0","install.packages(""pacman"")"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/pacman_0.5.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 395120 bytes (385 KB)
+"
+"2","downloaded 385 KB
+
+"
+"1","package ‘pacman’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"0","pacman::p_load(sjlabelled,"
+"0","               dplyr, #Manipulacion de datos"
+"0","              stargazer, #Tablas"
+"0","              sjmisc, # Tablas"
+"0","              summarytools, # Tablas"
+"0","              kableExtra, #Tablas"
+"0","              sjPlot, #Tablas y gráficos"
+"0","              corrplot, # Correlaciones"
+"0","              sessioninfo, # Información de la sesión de trabajo"
+"0","              ggplot2) # Para la mayoría de los gráficos"
+"2","also installing the dependencies ‘insight’, ‘datawizard’
+
+"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/insight_1.4.6.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/datawizard_1.3.0.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/sjlabelled_1.2.0.zip'
+"
+"1","package ‘insight’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘datawizard’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘sjlabelled’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+sjlabelled installed
+"
+"2","Aviso: package ‘sjlabelled’ was built under R version 4.5.3"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/stargazer_5.2.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 618510 bytes (604 KB)
+"
+"2","downloaded 604 KB
+
+"
+"1","package ‘stargazer’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+stargazer installed
+"
+"2","Aviso: package ‘stargazer’ was built under R version 4.5.2"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/sjmisc_2.8.11.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 548880 bytes (536 KB)
+"
+"2","downloaded 536 KB
+
+"
+"1","package ‘sjmisc’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+sjmisc installed
+"
+"2","Aviso: package ‘sjmisc’ was built under R version 4.5.3"
+"2","also installing the dependencies ‘Rcpp’, ‘plyr’, ‘reshape2’, ‘checkmate’, ‘magick’, ‘matrixStats’, ‘pander’, ‘rapportools’
+
+"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/Rcpp_1.1.1.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/plyr_1.8.9.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/reshape2_1.4.5.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/checkmate_2.3.4.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/magick_2.9.1.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/matrixStats_1.5.0.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/pander_0.6.6.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/rapportools_1.2.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/summarytools_1.1.5.zip'
+"
+"1","package ‘Rcpp’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘plyr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘reshape2’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘checkmate’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘magick’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘matrixStats’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘pander’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rapportools’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘summarytools’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+summarytools installed
+"
+"2","Aviso: package ‘summarytools’ was built under R version 4.5.3"
+"2","also installing the dependencies ‘systemfonts’, ‘svglite’
+
+"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/systemfonts_1.3.2.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/svglite_2.2.2.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/kableExtra_1.4.0.zip'
+"
+"1","package ‘systemfonts’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘svglite’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘kableExtra’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+kableExtra installed
+"
+"2","Aviso: package ‘kableExtra’ was built under R version 4.5.3"
+"2","also installing the dependencies ‘rbibutils’, ‘Rdpack’, ‘reformulas’, ‘effectsize’, ‘bayestestR’, ‘ggeffects’, ‘parameters’, ‘performance’, ‘sjstats’
+
+"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/rbibutils_2.4.1.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/Rdpack_2.6.6.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/reformulas_0.4.4.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/effectsize_1.0.2.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/bayestestR_0.17.0.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/ggeffects_2.3.2.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/parameters_0.28.3.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/performance_0.16.0.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/sjstats_0.19.1.zip'
+"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/sjPlot_2.9.0.zip'
+"
+"1","package ‘rbibutils’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘Rdpack’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘reformulas’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘effectsize’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘bayestestR’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggeffects’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘parameters’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘performance’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘sjstats’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘sjPlot’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+sjPlot installed
+"
+"2","Aviso: package ‘sjPlot’ was built under R version 4.5.3"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/corrplot_0.95.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3826014 bytes (3.6 MB)
+"
+"2","downloaded 3.6 MB
+
+"
+"1","package ‘corrplot’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+corrplot installed
+"
+"2","Aviso: package ‘corrplot’ was built under R version 4.5.3"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Aviso: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES': HTTP status was '404 Not Found'"
+"2","Aviso: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5:
+  no fue posible abrir la URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.5/PACKAGES'"
+"2","probando la URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/sessioninfo_1.2.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 198286 bytes (193 KB)
+"
+"2","downloaded 193 KB
+
+"
+"1","package ‘sessioninfo’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Alumno\AppData\Local\Temp\RtmpArCX6z\downloaded_packages"
+"1",""
+"1","
+"
+"2","
+sessioninfo installed
+"
+"2","Aviso: package ‘sessioninfo’ was built under R version 4.5.3"
